@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Aditya Prakash<br>🌱 Currently learning JavaScript while strengthening my fundamentals in Python, HTML, CSS, and C.<br>🚀 Interested in Web Development, Artificial Intelligence, Machine Learning, Data Science, and Cybersecurity.<br>🔍 Always curious about emerging technologies and eager to expand my knowledge through hands-on projects and real-world applications.<br><br>🎯 My goal is to build a strong foundation in computer science and grow as a developer by continuously learning, experimenting, and creating meaningful solutions.<br><br>📈 Open to collaboration, learning opportunities, and connecting with fellow developers.
+👋 Hi, I'm Aditya Prakash<br>🌱 Currently learning JavaScript while strengthening my fundamentals in Python, HTML, CSS, and C.<br>🚀 Interested in Web Development, Artificial Intelligence, Machine Learning, Data Science, and Cybersecurity.<br>🔍 Always curious about emerging technologies and eager to expand my knowledge through hands-on projects and real-world applications.<br><br>🎯 My goal is to build a strong foundation in computer science and grow as a developer by continuously learning, experimenting, and creating meaningful solutions.<br>📈 Open to collaboration, learning opportunities, and connecting with fellow developers.
 
 
 ## 🌐 Socials:
